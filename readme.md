@@ -8,9 +8,10 @@ Creative Tim provides information about how you are allowed to use their assets 
 
 ## Shortcode Example
 
+```
 [card 
-	col_md = '4',
-	col_sm = '6',
+	col_md = "4"
+	col_sm = "6"
 	cover_photo = "http://www.assets.com/assets/images/rotating_card_thumb.png"
 	profile_photo = "http://www.assets.com/assets/images/creative_tim.jpg"
 	title = "Creative Tim"
@@ -34,3 +35,4 @@ You can use this this rotating CSS card for presenting your team or to show more
 </p>
 
 [/card]
+```
