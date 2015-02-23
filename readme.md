@@ -9,6 +9,7 @@ Creative Tim provides information about how you are allowed to use their assets 
 ## Shortcode Example
 
 ```
+/* note for the shortcode below to work in WordPress it will need to have all it's options on one line */
 [card 
 	col_md = "4"
 	col_sm = "6"
