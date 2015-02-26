@@ -86,6 +86,12 @@ if ( !class_exists( 'Creative_Tim_Css_Cards' ) ) {
 				'company' => 'Creative Tim',
 				'show_stars' => true,
 				'star_count' => 5,
+				'email' => '',
+				'phone' => '',
+				'website' => '',
+				'twitter' => '',
+				'facebook' => '',
+				'googleplus' => '',
 				'motto' => __('Start designing and developing faster.' , 'creative-tim-css-cards' )
 				
 			), $atts, 'card' );
